@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "cc96763e9819521a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0007065f237694d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "effb9058ac991caf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6df4b77a9003f50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "98bcf0f169116c96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01ed3fdf83c8034b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98d9cbc19d590a0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd998652827191fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5d18f181417335a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6fbafa534426cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "179782bea26d4298",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a9d26ef2f989e90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1e3d996a43c25a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5ef1f1774801592",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "effb9058ac991caf",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "SimpRead/Kolmogorov-Smirnov test (K-S 检验）.md",
+    "SimpRead/口令安全问题研究 _ 小生很忙.md",
+    "SimpRead/0-Kolmogorov-Smirnov test (K-S 检验）.md",
+    "SimpRead/密码学基础：Pedersen Commitment-CSDN 博客.md",
+    "SimpRead"
+  ]
+}
